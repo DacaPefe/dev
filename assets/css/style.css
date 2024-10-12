@@ -1,14 +1,13 @@
 
 body{
-    display: block;
-    max-width: 800px;
-    margin: 5px auto;
-    height: 100vh;
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+    width: 100%;
     padding: 16px;
     align-items: center;
-    background-color: #ffff;
     font-family: Inter;
-    background-color: #CBD5E1;
+    background-color: #F8FAFC
 
 }
 
@@ -16,6 +15,8 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+    padding: 32px;
     background-color: #FFFFFF;
   
 }
@@ -45,7 +46,6 @@ a{
 
 section{
     display: flex;
-    width: 100%;
     flex-direction: column;
     gap: 8px;
     line-height: 2.5rem;
@@ -58,4 +58,5 @@ section:first-child{
 .content{
      background-color: #F8FAFC ;
      padding: 16px;
+     align-items: center;
 }
