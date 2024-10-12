@@ -19,7 +19,3 @@ No server setup is required. Simply open index.html in a web browser.
 
 Additional Tools (Optional)
 If using a code editor like VSCode, you can install extensions for HTML and CSS for a better development experience.
-
-## Demo
-
-![image](https://github.com/user-attachments/assets/cac43d06-9127-4e1b-92cc-8a93574e527f)
